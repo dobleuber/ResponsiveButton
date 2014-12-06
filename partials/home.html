@@ -1,0 +1,17 @@
+﻿<h1>Home View!!</h1>
+
+<span melas-button ng-click="click1()">Hey</span>
+
+<div melas-container>
+    <div ng-repeat="item in items">
+        <span melas-tooltip description="item.description" options="{color: item.color}">
+            <span melas-button ng-click="click1()">{{item.text}}</span>
+        </span>
+    </div>
+</div>
+
+<div ng-repeat="item in items">
+    <span melas-tooltip description="item.description" options="{color: item.color}">
+        <span melas-button ng-click="click1()" not-fancy="true">{{item.text}}</span>
+    </span>
+</div>

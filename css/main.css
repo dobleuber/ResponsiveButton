@@ -1,0 +1,18 @@
+﻿body {
+    
+}
+
+[melas-tooltip] > div {
+    margin: 20px;
+}
+
+[melas-tooltip] > div > span{
+    border: 1px solid #000;
+    border-bottom: none;
+    padding: 5px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    position:relative;
+    left:20px; 
+    background-color: #e8e8e8;
+}

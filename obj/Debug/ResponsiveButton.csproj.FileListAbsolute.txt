@@ -1,0 +1,6 @@
+C:\Users\User\Documents\GitHub\ResponsiveButton\ResponsiveButton\bin\ResponsiveButton.dll.config
+C:\Users\User\Documents\GitHub\ResponsiveButton\ResponsiveButton\bin\ResponsiveButton.dll
+C:\Users\User\Documents\GitHub\ResponsiveButton\ResponsiveButton\bin\ResponsiveButton.pdb
+C:\Users\User\Documents\GitHub\ResponsiveButton\ResponsiveButton\obj\Debug\ResponsiveButton.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\GitHub\ResponsiveButton\ResponsiveButton\obj\Debug\ResponsiveButton.dll
+C:\Users\User\Documents\GitHub\ResponsiveButton\ResponsiveButton\obj\Debug\ResponsiveButton.pdb
